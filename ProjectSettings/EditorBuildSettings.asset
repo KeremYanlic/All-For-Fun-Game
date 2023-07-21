@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/FOURGAMEMENU/GameSelectMenu.unity
+    guid: 12f10a3826829b04ead258e138bb96df
+  - enabled: 1
+    path: Assets/COLORING GAME/SCENESS/ColoringMM.unity
+    guid: c304b59ec1358ad4fa451608d9652097
+  - enabled: 1
+    path: Assets/COLORING GAME/SCENESS/DrawMeshFull.unity
+    guid: d4fd8adb7e4dc574d8c86dfb7ac2c58a
+  - enabled: 1
+    path: Assets/COLORING GAME/SCENESS/DrawMeshFull 1.unity
+    guid: 6168ec8b530370b4494cd7162c67b23d
+  - enabled: 1
+    path: Assets/COLORING GAME/SCENESS/DrawMeshFull 2.unity
+    guid: 14cecb7680b1604489393f1a9f9f62cf
+  - enabled: 1
+    path: Assets/COLORING GAME/SCENESS/DrawMeshFull 3.unity
+    guid: 443a7da1c33f12940b16c3463084c80e
+  - enabled: 1
+    path: Assets/HDStar/Scenes/HDStarLevelMenu.unity
+    guid: 3de9dc8d1c23ac9459f1b513a1c13490
+  - enabled: 1
+    path: Assets/HDStar/Scenes/HDLevel1.unity
+    guid: b201707af4c3f45489a2c0c810365dab
+  - enabled: 1
+    path: Assets/JIGSAW GAME/Scene/PuzzleMainScene.unity
+    guid: a28e13c955eac924e934a96171a7d51d
+  - enabled: 1
+    path: Assets/JIGSAW GAME/Scene/PuzzleScene 1.unity
+    guid: 1fb7466a07edb0e41b795b27d06f2b7d
+  - enabled: 1
+    path: Assets/JIGSAW GAME/Scene/PuzzleScene 2.unity
+    guid: 2ce2cc4134dd86a4ca37dc9ae674c38c
+  - enabled: 1
+    path: Assets/JIGSAW GAME/Scene/PuzzleScene 3.unity
+    guid: 3fb7c4c4213627946b9a6056b8d53807
+  - enabled: 1
+    path: Assets/JIGSAW GAME/Scene/PuzzleScene 4.unity
+    guid: cf70a5bc44f56234c85bef5eb50438fb
+  - enabled: 1
+    path: Assets/JIGSAW GAME/Scene/PuzzleScene 5.unity
+    guid: b23b5af79e888a64cbcef7d5cc3e9cf6
+  - enabled: 1
+    path: Assets/JIGSAW GAME/Scene/PuzzleScene 6.unity
+    guid: 3ddd612454ee6e744b2765ee0f289a89
+  - enabled: 1
+    path: Assets/JIGSAW GAME/Scene/PuzzleScene 7.unity
+    guid: 9942ba0f259f0bb41ac284faa04820f1
+  - enabled: 1
+    path: Assets/JIGSAW GAME/Scene/PuzzleScene 8.unity
+    guid: 693cecd6c96a44240a484e5277a5e19a
+  - enabled: 1
+    path: Assets/JIGSAW GAME/Scene/PuzzleScene 9.unity
+    guid: 452032e8929224246a7c1d2b7fa01151
+  - enabled: 1
+    path: Assets/JIGSAW GAME/Scene/PuzzleScene 10.unity
+    guid: c84cd444b6c56b046892aaeabe1dd358
+  - enabled: 1
+    path: Assets/JIGSAW GAME/Scene/PuzzleScene 11.unity
+    guid: 1a23bb391ca589449a9c9c35ef3ff06c
+  - enabled: 1
+    path: Assets/JIGSAW GAME/Scene/PuzzleScene 12.unity
+    guid: 3d04b1fc3fb08f74fa4ead6da169f348
+  - enabled: 1
+    path: Assets/SONIC FOLDER/Scenes/SonicMainMenu.unity
+    guid: 489dd83cb0d37f64f80ec15e6b7cdc81
+  - enabled: 1
+    path: Assets/SONIC FOLDER/Scenes/Level 1.unity
+    guid: 406a80b051b192f4388b0f5a274b8829
+  m_configObjects: {}

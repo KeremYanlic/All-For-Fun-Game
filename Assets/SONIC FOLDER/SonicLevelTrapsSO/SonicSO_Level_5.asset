@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b9411012d283c0c42a45afb57f4b7436, type: 3}
+  m_Name: SonicSO_Level_5
+  m_EditorClassIdentifier: 
+  isThereAnyTrap: 1
+  trap: {fileID: 1333565276192428533, guid: 2afaf3399a6ad4149b9d276aa4dd9d39, type: 3}
+  trapPositions:
+  - {x: 4.187, y: -3.7144, z: 10}
+  - {x: 4.7704, y: -3.7144, z: 10}
+  - {x: 5.3732, y: -3.7144, z: 10}
+  - {x: -3.77, y: -3.7144, z: 10}
+  - {x: -3.1866, y: -3.7144, z: 10}
+  - {x: -2.5838, y: -3.7144, z: 10}
+  trapRotations: 000000000000000000000000000000000000000000000000
+  trapScales:
+  - {x: 0.9722034, y: 0.9722034, z: 0.9722034}
+  - {x: 0.9722034, y: 0.9722034, z: 0.9722034}
+  - {x: 0.9722034, y: 0.9722034, z: 0.9722034}
+  - {x: 0.9722034, y: 0.9722034, z: 0.9722034}
+  - {x: 0.9722034, y: 0.9722034, z: 0.9722034}
+  - {x: 0.9722034, y: 0.9722034, z: 0.9722034}
+  isThereAnyForestPlatform: 1
+  forestPlatform: {fileID: 1545826392081556148, guid: 082e49bbd4ac96e4abcdcf4a1182fb02, type: 3}
+  forestPlatformPositions:
+  - {x: -9.524, y: -2.021, z: 0}
+  - {x: -5.26, y: 0.235, z: 0}
+  - {x: -0.3200002, y: 0.3699999, z: 0}
+  - {x: 4.63, y: 0.3699999, z: 0}
+  - {x: 8.77, y: 2.21, z: 0}
+  forestPlatformScales:
+  - {x: 0.2892, y: 0.2892, z: 0.2892}
+  - {x: 0.2892, y: 0.2892, z: 0.2892}
+  - {x: 0.2892, y: 0.2892, z: 0.2892}
+  - {x: 0.2892, y: 0.2892, z: 0.2892}
+  - {x: 0.2892, y: 0.2892, z: 0.2892}
+  isThereAnyBrokenPlatform: 0
+  brokenPlatform: {fileID: 0}
+  brokenPlatformDestroyTime: 0
+  brokenPlatformPositions: []
+  brokenPlatformScales: []
+  isThereAnyClayWall: 0
+  clayWall: {fileID: 0}
+  clayWallPositions: []
+  clayWallRotations: []
+  clayWallScales: []
+  isThereAnyTreeWall: 0
+  treeWall: {fileID: 0}
+  treeWallPositions: []
+  treeWallScales: []
+  goldCoin: {fileID: 1463738905456666648, guid: 61614a8da532ec04ea97186ceb62f038, type: 3}
+  goldCoinAmount: 2
+  goldCoinPositions:
+  - {x: 8.737305, y: 3.500551, z: 0}
+  - {x: 8.347305, y: -2.57945, z: 0}
+  goldCoinScales:
+  - {x: 0.4724, y: 0.4724, z: 0}
+  - {x: 0.4724, y: 0.4724, z: 0}
+  portal: {fileID: 1748580149973969279, guid: 85f905db2b30bb448bce17a5b18719d1, type: 3}
+  isPortalHasPlatform: 0
+  portalPosition: {x: 1.13, y: -2.97, z: 0}
+  treePrefab: {fileID: 3506442762635512342, guid: 152c24f9a1c9673478f9f5763cfe3f55, type: 3}
+  treePrefabPositions:
+  - {x: -12, y: 2.1}
+  - {x: 12, y: 2.1}
+  treePrefabsScales:
+  - {x: 5.2, y: 5.2}
+  - {x: 5.2, y: 5.2}
+  currentBGLayer: {fileID: 1023879353459416470, guid: 7b8ec2384a3260c479d5e34f367a9a59, type: 3}

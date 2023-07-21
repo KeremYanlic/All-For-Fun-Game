@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b9411012d283c0c42a45afb57f4b7436, type: 3}
+  m_Name: SonicSO_Level_1
+  m_EditorClassIdentifier: 
+  isThereAnyTrap: 1
+  trap: {fileID: 1333565276192428533, guid: 2afaf3399a6ad4149b9d276aa4dd9d39, type: 3}
+  trapPositions:
+  - {x: -1.123, y: -3.7144, z: 10}
+  - {x: -0.5931, y: -3.7144, z: 10}
+  - {x: 0.0632, y: -3.7144, z: 10}
+  trapRotations: 000000000000000000000000
+  trapScales:
+  - {x: 0.9722034, y: 0.9722034, z: 0.9722034}
+  - {x: 0.9722034, y: 0.9722034, z: 0.9722034}
+  - {x: 0.9722034, y: 0.9722034, z: 0.9722034}
+  isThereAnyForestPlatform: 0
+  forestPlatform: {fileID: 1545826392081556148, guid: 082e49bbd4ac96e4abcdcf4a1182fb02, type: 3}
+  forestPlatformPositions: []
+  forestPlatformScales: []
+  isThereAnyBrokenPlatform: 0
+  brokenPlatform: {fileID: 6830825724193541265, guid: 8d49cf927160edd4c82cda583358475e, type: 3}
+  brokenPlatformDestroyTime: 0
+  brokenPlatformPositions: []
+  brokenPlatformScales: []
+  isThereAnyClayWall: 0
+  clayWall: {fileID: 0}
+  clayWallPositions: []
+  clayWallRotations: []
+  clayWallScales: []
+  isThereAnyTreeWall: 0
+  treeWall: {fileID: 0}
+  treeWallPositions: []
+  treeWallScales: []
+  goldCoin: {fileID: 1463738905456666648, guid: 61614a8da532ec04ea97186ceb62f038, type: 3}
+  goldCoinAmount: 1
+  goldCoinPositions:
+  - {x: 8.57, y: -3.18, z: 0}
+  goldCoinScales:
+  - {x: 0.4724, y: 0.4724, z: 0}
+  portal: {fileID: 1748580149973969279, guid: 85f905db2b30bb448bce17a5b18719d1, type: 3}
+  isPortalHasPlatform: 0
+  portalPosition: {x: -7.41, y: -3.03, z: 0}
+  treePrefab: {fileID: 3506442762635512342, guid: 152c24f9a1c9673478f9f5763cfe3f55, type: 3}
+  treePrefabPositions:
+  - {x: -12, y: 2}
+  - {x: 12, y: 2}
+  treePrefabsScales:
+  - {x: 5.1, y: 5.1}
+  - {x: 5.1, y: 5.1}
+  currentBGLayer: {fileID: 1023879353459416470, guid: 7b8ec2384a3260c479d5e34f367a9a59, type: 3}

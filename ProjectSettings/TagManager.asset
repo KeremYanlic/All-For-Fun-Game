@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - eraser
+  - pencil
+  - web
+  - Canvas
+  - star
+  - door
+  - wall
+  - coin
+  - brokenPlatform
+  - Trap
+  - puzzle
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: SolutionLayer
+    uniqueID: 1340319843
+    locked: 0
+  - name: menuLayer
+    uniqueID: 77260347
+    locked: 0
+  - name: Platforms
+    uniqueID: 3999640845
+    locked: 0
+  - name: Player
+    uniqueID: 1471898253
+    locked: 0

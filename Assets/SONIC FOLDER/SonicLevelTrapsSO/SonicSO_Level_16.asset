@@ -1,0 +1,115 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b9411012d283c0c42a45afb57f4b7436, type: 3}
+  m_Name: SonicSO_Level_16
+  m_EditorClassIdentifier: 
+  isThereAnyTrap: 1
+  trap: {fileID: 1333565276192428533, guid: 2afaf3399a6ad4149b9d276aa4dd9d39, type: 3}
+  trapPositions:
+  - {x: -0.7534003, y: -3.7144, z: 0}
+  - {x: -0.1699998, y: -3.7144, z: 0}
+  - {x: -1.35, y: -3.7144, z: 0}
+  - {x: 1.08, y: -3.7144, z: 0}
+  - {x: 1.663401, y: -3.7144, z: 0}
+  - {x: 0.4834011, y: -3.7144, z: 0}
+  - {x: -4.466802, y: -3.7144, z: 0}
+  - {x: -3.883401, y: -3.7144, z: 0}
+  - {x: -5.063401, y: -3.7144, z: 0}
+  - {x: -2.633401, y: -3.7144, z: 0}
+  - {x: -2.05, y: -3.7144, z: 0}
+  - {x: -3.23, y: -3.7144, z: 0}
+  - {x: 2.27, y: -3.7144, z: 0}
+  - {x: 3.53, y: -3.7144, z: 0}
+  - {x: 4.1134, y: -3.7144, z: 0}
+  - {x: 2.933401, y: -3.7144, z: 0}
+  - {x: 4.690001, y: -3.7144, z: 0}
+  - {x: 8.736599, y: -3.7144, z: 0}
+  - {x: 9.32, y: -3.7144, z: 0}
+  - {x: 8.139999, y: -3.7144, z: 0}
+  - {x: 9.98, y: -3.7144, z: 0}
+  - {x: 10.5634, y: -3.7144, z: 0}
+  trapRotations: 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  trapScales:
+  - {x: 0.9722034, y: 0.9722034, z: 0.9722034}
+  - {x: 0.9722034, y: 0.9722034, z: 0.9722034}
+  - {x: 0.9722034, y: 0.9722034, z: 0.9722034}
+  - {x: 0.9722034, y: 0.9722034, z: 0.9722034}
+  - {x: 0.9722034, y: 0.9722034, z: 0.9722034}
+  - {x: 0.9722034, y: 0.9722034, z: 0.9722034}
+  - {x: 0.9722034, y: 0.9722034, z: 0.9722034}
+  - {x: 0.9722034, y: 0.9722034, z: 0.9722034}
+  - {x: 0.9722034, y: 0.9722034, z: 0.9722034}
+  - {x: 0.9722034, y: 0.9722034, z: 0.9722034}
+  - {x: 0.9722034, y: 0.9722034, z: 0.9722034}
+  - {x: 0.9722034, y: 0.9722034, z: 0.9722034}
+  - {x: 0.9722034, y: 0.9722034, z: 0.9722034}
+  - {x: 0.9722034, y: 0.9722034, z: 0.9722034}
+  - {x: 0.9722034, y: 0.9722034, z: 0.9722034}
+  - {x: 0.9722034, y: 0.9722034, z: 0.9722034}
+  - {x: 0.9722034, y: 0.9722034, z: 0.9722034}
+  - {x: 0.9722034, y: 0.9722034, z: 0.9722034}
+  - {x: 0.9722034, y: 0.9722034, z: 0.9722034}
+  - {x: 0.9722034, y: 0.9722034, z: 0.9722034}
+  - {x: 0.9722034, y: 0.9722034, z: 0.9722034}
+  - {x: 0.9722034, y: 0.9722034, z: 0.9722034}
+  isThereAnyForestPlatform: 1
+  forestPlatform: {fileID: 1545826392081556148, guid: 320d95f14507eba4793721ba429dd8d6, type: 3}
+  forestPlatformPositions:
+  - {x: -2.742063, y: -2.2, z: 0}
+  - {x: 2.37, y: -1.95, z: 0}
+  - {x: 10.0534, y: -2.07, z: 0}
+  - {x: 2.53, y: 1.84, z: 0}
+  - {x: -2.44, y: 1.84, z: 0}
+  forestPlatformScales:
+  - {x: 0.2892, y: 0.2892, z: 0.2892}
+  - {x: 0.2892, y: 0.2892, z: 0.2892}
+  - {x: 0.2892, y: 0.2892, z: 0.2892}
+  - {x: 0.2279361, y: 0.2892, z: 0.2892}
+  - {x: 0.2892, y: 0.2892, z: 0.2892}
+  isThereAnyBrokenPlatform: 1
+  brokenPlatform: {fileID: 6830825724193541265, guid: 61b5da9d3ab1f004999fc1a65f7cc86c, type: 3}
+  brokenPlatformDestroyTime: 0.2
+  brokenPlatformPositions:
+  - {x: 6.52, y: 0.06999993, z: 0}
+  brokenPlatformScales:
+  - {x: 0.2892, y: 0.2892, z: 0.2892}
+  isThereAnyClayWall: 1
+  clayWall: {fileID: 2938448380383964211, guid: 3eae969a22296ec4eabb030f50b40865, type: 3}
+  clayWallPositions:
+  - {x: -4.47, y: 4.601394, z: 0}
+  clayWallRotations:
+  - 0
+  clayWallScales:
+  - {x: 2.461507, y: 2.846273, z: 2.537998}
+  isThereAnyTreeWall: 0
+  treeWall: {fileID: 3506442762635512342, guid: 5c7db833a5b9976458550ab9f01211b6, type: 3}
+  treeWallPositions: []
+  treeWallScales: []
+  goldCoin: {fileID: 1463738905456666648, guid: 61614a8da532ec04ea97186ceb62f038, type: 3}
+  goldCoinAmount: 2
+  goldCoinPositions:
+  - {x: -2.47, y: 2.87055, z: 0}
+  - {x: 9.809999, y: -0.6894495, z: 0}
+  goldCoinScales:
+  - {x: 0.4724, y: 0.4724, z: 0.4724}
+  - {x: 0.4724, y: 0.4724, z: 0.4724}
+  portal: {fileID: 1748580149973969279, guid: 85f905db2b30bb448bce17a5b18719d1, type: 3}
+  isPortalHasPlatform: 0
+  portalPosition: {x: -8.79, y: -2.98, z: 0}
+  treePrefab: {fileID: 2570052982595339515, guid: f21e30709a1fdfb4ebfd433b70b40945, type: 3}
+  treePrefabPositions:
+  - {x: -12, y: 2.5}
+  - {x: 12, y: 2.5}
+  treePrefabsScales:
+  - {x: 1.485, y: 1.0197}
+  - {x: 1.485, y: 1.0197}
+  currentBGLayer: {fileID: 1023879353459416470, guid: 4bfaf1c39f6eda34387d002e94bef2f4, type: 3}

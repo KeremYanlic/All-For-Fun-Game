@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b9411012d283c0c42a45afb57f4b7436, type: 3}
+  m_Name: SonicSO_Level_4
+  m_EditorClassIdentifier: 
+  isThereAnyTrap: 1
+  trap: {fileID: 1333565276192428533, guid: 2afaf3399a6ad4149b9d276aa4dd9d39, type: 3}
+  trapPositions:
+  - {x: -0.023, y: -3.7144, z: 10}
+  - {x: 0.5604, y: -3.7144, z: 10}
+  - {x: 1.1632, y: -3.7144, z: 10}
+  trapRotations: 000000000000000000000000
+  trapScales:
+  - {x: 0.9722034, y: 0.9722034, z: 0.9722034}
+  - {x: 0.9722034, y: 0.9722034, z: 0.9722034}
+  - {x: 0.9722034, y: 0.9722034, z: 0.9722034}
+  isThereAnyForestPlatform: 1
+  forestPlatform: {fileID: 1545826392081556148, guid: 082e49bbd4ac96e4abcdcf4a1182fb02, type: 3}
+  forestPlatformPositions:
+  - {x: -5.01, y: -2.051666, z: 0}
+  - {x: -2.09, y: -0.06999999, z: 0}
+  - {x: 2.85, y: -0.06999999, z: 0}
+  - {x: 5.74, y: -2.051666, z: 0}
+  forestPlatformScales:
+  - {x: 0.2892, y: 0.2892, z: 0.2892}
+  - {x: 0.2892, y: 0.2892, z: 0.2892}
+  - {x: 0.2892, y: 0.2892, z: 0.2892}
+  - {x: 0.2892, y: 0.2892, z: 0.2892}
+  isThereAnyBrokenPlatform: 0
+  brokenPlatform: {fileID: 0}
+  brokenPlatformDestroyTime: 0
+  brokenPlatformPositions: []
+  brokenPlatformScales: []
+  isThereAnyClayWall: 0
+  clayWall: {fileID: 0}
+  clayWallPositions: []
+  clayWallRotations: []
+  clayWallScales: []
+  isThereAnyTreeWall: 0
+  treeWall: {fileID: 0}
+  treeWallPositions: []
+  treeWallScales: []
+  goldCoin: {fileID: 1463738905456666648, guid: 61614a8da532ec04ea97186ceb62f038, type: 3}
+  goldCoinAmount: 2
+  goldCoinPositions:
+  - {x: -2.043964, y: 1.77, z: 0}
+  - {x: 2.816036, y: 1.77, z: 0}
+  goldCoinScales:
+  - {x: 0.4724, y: 0.4724, z: 0}
+  - {x: 0.4724, y: 0.4724, z: 0}
+  portal: {fileID: 5200756442626382753, guid: 34f10f49f5a98f043b0e8d71051cc1f4, type: 3}
+  isPortalHasPlatform: 1
+  portalPosition: {x: 7.49, y: 2.24, z: 0}
+  treePrefab: {fileID: 3506442762635512342, guid: 152c24f9a1c9673478f9f5763cfe3f55, type: 3}
+  treePrefabPositions:
+  - {x: -12, y: 2.1}
+  - {x: 12, y: 2.1}
+  treePrefabsScales:
+  - {x: 5.2, y: 5.2}
+  - {x: 5.2, y: 5.2}
+  currentBGLayer: {fileID: 1023879353459416470, guid: 7b8ec2384a3260c479d5e34f367a9a59, type: 3}
